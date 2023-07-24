@@ -18,4 +18,15 @@ The parameters currently used in the topology are:-
 * #### For PM 2.5 - 10% variation
 * #### For Temperature - 5% variation
 * #### For Humidity - 10% variation
+
 If the variation is within the above-mentioned limit, we acknowledge the tuple, or else we will drop it.
+
+## The Topology structure.
+
+![strcture](https://github.com/atifquamar07/Environment-Filtering-Topology-in-Apache-Storm/assets/88545624/16d8e93f-4f0f-48f4-aff4-f603830f3f33)
+
+
+## Summary of the topology being submitted to the storm cluster
+![summary](https://github.com/atifquamar07/Environment-Filtering-Topology-in-Apache-Storm/assets/88545624/6f7700a2-528b-4613-a145-4b8edf52f234)
+
+
